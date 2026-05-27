@@ -1,0 +1,17 @@
+{
+    "Szymon Marciniak": {
+        "fouls_per_game": 22.5,
+        "yellows_per_game": 4.1,
+        "reds_per_game": 0.2
+    },
+    "Daniele Orsato": {
+        "fouls_per_game": 24.1,
+        "yellows_per_game": 5.2,
+        "reds_per_game": 0.3
+    },
+    "Wilton Sampaio": {
+        "fouls_per_game": 28.5,
+        "yellows_per_game": 6.1,
+        "reds_per_game": 0.4
+    }
+}

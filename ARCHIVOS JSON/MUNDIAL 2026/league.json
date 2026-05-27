@@ -1,0 +1,52 @@
+{
+    "teams": [
+        {
+            "name": "Argentina",
+            "logo": "https://media.api-sports.io/football/teams/26.png"
+        },
+        {
+            "name": "Francia",
+            "logo": "https://media.api-sports.io/football/teams/17.png"
+        },
+        {
+            "name": "Brasil",
+            "logo": "https://media.api-sports.io/football/teams/6.png"
+        },
+        {
+            "name": "Inglaterra",
+            "logo": "https://media.api-sports.io/football/teams/10.png"
+        },
+        {
+            "name": "Espa\u00f1a",
+            "logo": "https://media.api-sports.io/football/teams/9.png"
+        },
+        {
+            "name": "Alemania",
+            "logo": "https://media.api-sports.io/football/teams/25.png"
+        },
+        {
+            "name": "Portugal",
+            "logo": "https://media.api-sports.io/football/teams/27.png"
+        },
+        {
+            "name": "Uruguay",
+            "logo": "https://media.api-sports.io/football/teams/7.png"
+        },
+        {
+            "name": "Colombia",
+            "logo": "https://media.api-sports.io/football/teams/8.png"
+        },
+        {
+            "name": "M\u00e9xico",
+            "logo": "https://media.api-sports.io/football/teams/16.png"
+        },
+        {
+            "name": "Estados Unidos",
+            "logo": "https://media.api-sports.io/football/teams/24.png"
+        },
+        {
+            "name": "Per\u00fa",
+            "logo": "https://media.api-sports.io/football/teams/30.png"
+        }
+    ]
+}
